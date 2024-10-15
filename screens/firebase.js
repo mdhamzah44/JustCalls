@@ -4,14 +4,14 @@ import { getFirestore } from 'firebase/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyBN1tx2aorGvxJbyHQiyVTgzvw6uzrZOIo",
-    authDomain: "vritantapp2.firebaseapp.com",
-    databaseURL: "https://vritantapp2-default-rtdb.firebaseio.com",
-    projectId: "vritantapp2",
-    storageBucket: "vritantapp2.appspot.com",
+    apiKey: "AIzaSyBN1tx2ahjGlvxJbyHQiyVTgzvw6uOIo",
+    authDomain: "vritant.firebaseapp.com",
+    databaseURL: "https://vritant-default-rtdb.firebaseio.com",
+    projectId: "vritant",
+    storageBucket: "vritant.appspot.com",
     messagingSenderId: "129944972429",
-    appId: "1:129944972429:web:1cec03876f8e6a8f5e46c4",
-    measurementId: "G-HRRNK105S5"
+    appId: "1:1294972429:web:1cec03845f8e6a8f5e46c4",
+    measurementId: "G-HHGNK105S5"
 };
 
 // Initialize Firebase
