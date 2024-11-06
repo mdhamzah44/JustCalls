@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "AC Install",
+    "price": 799,
+    "description": "Installation of air conditioning unit",
+    "rating": 4.5,
+    "duration": "120 mins",
+    "originalPrice": 899
+  },
+  {
+    "id": 2,
+    "name": "AC repair split/ Window",
+    "price": 299,
+    "description": "Repair of split or window air conditioners",
+    "rating": 4,
+    "duration": "90 mins",
+    "originalPrice": 349
+  },
+  {
+    "id": 3,
+    "name": "AC Service Lite",
+    "price": 499,
+    "description": "Basic cleaning with water jet technology",
+    "rating": 4.5,
+    "duration": "60 mins",
+    "originalPrice": 599
+  },
+  {
+    "id": 4,
+    "name": "AC Uninstall",
+    "price": 499,
+    "description": "Uninstallation of air conditioning unit",
+    "rating": 4,
+    "duration": "60 mins",
+    "originalPrice": 599
+  }
+]
